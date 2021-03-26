@@ -13,7 +13,7 @@ Those projects aims to practice HTML/CSS and Bootstrap grid
 
 ## Screenshots
 
-![Tempalrs Screenshot](https://github.com/antoineratat/codeacademy_bootstrap/blob/master/screenshots/1.PNG?raw=true)
+![Tempalrs Screenshot](https://github.com/antoineratat/codecademy_html/blob/main/screenshots/1.PNG?raw=true)
 
 ## Technologies
 
@@ -29,35 +29,5 @@ To run this project, clone it and start index.html
 
 ```
 $ git clone https://github.com/antoineratat/codeacademy_bootstrap.git
-$ cd codeacademy_bootstrap
-```
-
-For templars site
-
-```
-$ cd templars
-```
-
-For adhoc site
-
-```
-$ cd adhoc
-```
-
-For checkerboard
-
-```
-$ cd checkerboard
-```
-
-For bootstrap grid
-
-```
-$ cd test
-```
-
-For paint site
-
-```
-$ cd project_bootstrap_paint
+$ cd codeacademy_html/journey_around_the_world_color_css
 ```
