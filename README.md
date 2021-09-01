@@ -13,7 +13,7 @@ Those projects aims to practice HTML/CSS and Bootstrap grid
 
 ## Screenshots
 
-![Tempalrs Screenshot](https://github.com/antoineratat/codecademy_html/blob/main/screenshots/1.PNG?raw=true)
+![Tempalrs Screenshot](https://templars.guru/app/github/codecademy_html/1.PNG)
 
 ## Technologies
 
